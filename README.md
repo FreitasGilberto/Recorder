@@ -8,6 +8,9 @@ Este proyecto permite a los usuarios grabar la pantalla de su dispositivo. Utili
 - **Pausa y Resumen**: Durante la grabación, el usuario puede pausar y reanudar la grabación utilizando los botones correspondientes.
 - **Detener la grabación**: El usuario puede detener la grabación en cualquier momento.
 
+## Instrucciones de uso
+- Puedes clonar el repositorio y correrlo de forma local en tu PC o puedes ingresar al siguiente enlace: https://recorder-nine.vercel.app/
+
 ## Tecnologías Utilizadas
 
 - HTML
