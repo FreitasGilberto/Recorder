@@ -21,6 +21,3 @@ Este proyecto permite a los usuarios grabar la pantalla de su dispositivo. Utili
 
 Siéntete libre de contribuir al proyecto. Abre un problema si encuentras algún error o sugiere nuevas características y mejoras.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
